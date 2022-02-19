@@ -1,7 +1,11 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5584570.png" width="445" height="79" alt="al100antrax" /></a>
  
 ### Hi there 👋 😎😎                
-
+|     HORAS     |  LUNES | MARTES |
+|:-------------:|:------:|:------:|
+| 7:00 a 7:50am | CLASE  |        |
+| 7:55 a 8:45am |  CLASE |        |
+| 8:50 a 9:40am |        |  CLASE |
 <!--
 **al100antrax/al100antrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
