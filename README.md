@@ -1,6 +1,6 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5584570.png" width="445" height="79" alt="al100antrax" /></a>
  
-### Hi there 👋 😎😎                
+### buenas gente, como andan, bienvenidos al Himalaya(mi perfil) 👋 😎😎                
 |     HORAS     |  LUNES | MARTES |
 |:-------------:|:------:|:------:|
 | 7:00 a 7:50am | CLASE  |        |
