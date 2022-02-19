@@ -1,5 +1,5 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5584570.png" width="445" height="79" alt="al100antrax" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - 
+ 
 ### Hi there 👋 😎😎                
 
 <!--
